@@ -190,7 +190,6 @@ body {
   right: -35px;
   width: 19px;
   height: 4px;
-  background-image: url(/img/ico-nav-arrow.png);
   background-repeat: no-repeat;
 }
 
@@ -260,7 +259,6 @@ body {
   left: 0;
   width: 100px;
   height: 108px;
-  background-image: url(/img/sprite.png);
 }
 
 .features-icon-schedule {
@@ -298,7 +296,6 @@ body {
   top: 8px;
   right: 0;
   padding-right: 68px;
-  background-image: url('/img/dots.png');
   background-position: center right;
   background-repeat: no-repeat;
   color: #000000;
@@ -371,13 +368,11 @@ body {
 .feedback-content::before {
   top: -10px;
   left: -35px;
-  background-image: url("img/quote-open.png");
 }
 
 .feedback-content::after {
   right: -20px;
   bottom: -10px;
-  background-image: url("img/quote-close.png");
 }
 
 .feedback-content h3 {
